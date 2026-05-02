@@ -1,0 +1,10 @@
+[package]
+name = "your-wasmer-username/pizzeria-en-3-vias"
+version = "0.1.0"
+description = "Pizzeria En 3 Vias static marketing website"
+
+[dependencies]
+"sharrattj/static-web-server" = "1"
+
+[fs]
+public = "public"

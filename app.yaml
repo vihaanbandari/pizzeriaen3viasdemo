@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: pizzeria-en-3-vias
+owner: your-wasmer-username
+package: your-wasmer-username/pizzeria-en-3-vias
